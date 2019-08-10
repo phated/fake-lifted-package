@@ -11,7 +11,7 @@
     "url": "git+https://github.com/phated/fake-lifted-package.git"
   },
   "author": "Blaine Bublitz <blaine.bublitz@gmail.com> (https://github.com/phated)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/phated/fake-lifted-package/issues"
   },
