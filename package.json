@@ -1,6 +1,6 @@
 {
   "name": "@phated/fake-lifted-package",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Just a fake lifted package for screenshots",
   "main": "index.js",
   "scripts": {
